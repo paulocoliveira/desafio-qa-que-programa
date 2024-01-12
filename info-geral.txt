@@ -1,0 +1,25 @@
+Faaaaala pessoal, tudo bom?
+ ️ 
+Primeiramente quero falar com o pessoal que não vai participar do desafio... Neste grupo, para além do desafio, temos conteúdos na árwa de Qualidade de Software! Então, mantenham-se próximos, acompanhando as mensagens aqui, pois continuarei entregando o conteúdo que vocês curtem, ok? ️
+
+Agora para os que vão participar do desafio, que bom que vocês estão animados pro desafio que começou no dia 11 de janeiro. Eu estou bastante empolgado com o andamento e vou me dedicar totalmente a vocês pelos 21 dias do desafio.
+
+Alguns detalhes importantes do desafio e uma novidade espetacular:
+1. Todos os dias faço dois posts aqui sobre o desafio: na hora que o desafio tiver disponível, pra mandar o link pra vocês, e na hora que eu disponibilizar a solução (com o link da solução). 🚀
+2. No link que explica o desafio do dia vou colocar umas dicas de quais conhecimentos precisarão saber pra resolver aquele desafio, isso vai audar vocês a fazerem pesquisas caso tenham dificuldade em resolver o desafio. 
+3. Os desafios tem dificuldades progressivas, então não estranhem que os primeiros serão relativamente mais fáceis e vão ficando um bocadinho mais difícil a cada dia. É pra vocês irem pegando o ritmo! Porém, lembro que o foco são apenas desafios básicos e intermediários, não iremos partir para coisas mais avançadas.
+4. Todos os códigos que disponibilizarei estarão comentados pra ajudar vocês a entenderem a lógica. Caso alguém depois de ver a solução ainda tiver alguma dúvida, me manda mensagem no privado com a dúvida (incluindo código, erros e screenshots) que vou separar um tempo por dia pra responder vocês. Ah, mandem sempre o nome de vocês na mensagem pra eu poder saber com quem estou falando. 
+5. Todos os dias vou disponibilizar duas soluções, uma mais simples e uma mais elaborada. Isso ajuda todos. Primeiro porque saberão como usar o básico pra resolver este desafio e ajuda a aprender formas mais elaboradas pra solucionar o mesmo desafio. Aprendizado duplo. 
+6. Tive uma ideia pra gamificar nosso desafio. Leiam com atenção! Toda vez que você concluir o desafio do dia, você vai no post da manhã (onde disponibilizarei o link do que vai ser o desafio) e curte a mensagem com este emoji ️✅. Isso vai me ajudar a ter visibilidade de quem concluiu o desafio do dia. Todo dia, antes de eu mandar o desafio do dia, vou ver todos que fizeram o desafio do dia anterior e por sorteio, vou selecionar uma pessoa. Vou fazer contato com a pessoa e pedir um print do código da pessoa. A cada três dias, vou fazer um post no linkedin falando sobre o desafio e vou postar os 3 prints e marcar as 3 pessoas que foram selecionadas. Isto é uma forma de ajudar a dar visibilidade a vocês, por isso, fazer o desafio além de valer a pena pelo aprendizado, vai te ajudar a ter mais visibilidade nas redes. 
+7. Quem quiser no dia a dia postar sobre o desafio no linkedin é uma excelente ideia, isso dá visibilidade pra você, mostra que você está empenhado em adquirir novas habilidades neste começo de ano. Não deixe de me marcar nas publicações de vocês, vou comentar todas! 🚀
+8. Quem puder curtir, comentar e compartilhar a publicação que eu fizer relacionada ao desafio a cada 3 dias, vai ser muito bom pra dar visibilidade a todos nós.
+9. Ninguém vai ser cobrado pra fazer ou não o desafio, mas todas as pessoas que fizerem todos os 21 dias do desafio vão ganhar uma surpresa no final. Surpresa é surpresa, não vou contar antes, controlem a curiosidade e gastem energia fazendo o desafio. 
+10. Sejam ativos aqui no grupo, respondam as enquetes que eu postar sempre por favor... ✅
+
+Queria partilhar com vocês que apenas meus mentorandos tem esta oportunidade de estar assim tão próximos a mim, então, aproveitem esta oportunidade incrível! Estou verdadeiramente comprometido a fazer vocês evoluírem durante estes 21 dias!!!
+Vamos que vamos!!! 
+
+DESAFIO DIA 01https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/desafios/dia-01
+SOLUÇÃO DO DESAFIO DIA 01https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/solucoes/dia-01
+DESAFIO DIA 02https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/desafios/dia-02
+SOLUÇÃO DO DESAFIO DIA 02: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/solucoes/dia-02
