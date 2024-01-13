@@ -26,4 +26,4 @@ DESAFIO DIA 02: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/m
 SOLUÇÃO DO DESAFIO DIA 02: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/solucoes/dia-02
 
 DESAFIO DIA 03: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/desafios/dia-03
-SOLUÇÃO DO DESAFIO DIA 03: Será disponibizado hoje ainda.
+SOLUÇÃO DO DESAFIO DIA 03: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/solucoes/dia-03
