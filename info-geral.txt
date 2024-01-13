@@ -19,7 +19,11 @@ Alguns detalhes importantes do desafio e uma novidade espetacular:
 Queria partilhar com vocês que apenas meus mentorandos tem esta oportunidade de estar assim tão próximos a mim, então, aproveitem esta oportunidade incrível! Estou verdadeiramente comprometido a fazer vocês evoluírem durante estes 21 dias!!!
 Vamos que vamos!!! 
 
-DESAFIO DIA 01https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/desafios/dia-01
-SOLUÇÃO DO DESAFIO DIA 01https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/solucoes/dia-01
-DESAFIO DIA 02https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/desafios/dia-02
+DESAFIO DIA 01: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/desafios/dia-01
+SOLUÇÃO DO DESAFIO DIA 01: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/solucoes/dia-01
+
+DESAFIO DIA 02: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/desafios/dia-02
 SOLUÇÃO DO DESAFIO DIA 02: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/solucoes/dia-02
+
+DESAFIO DIA 03: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/desafios/dia-03
+SOLUÇÃO DO DESAFIO DIA 03: Será disponibizado hoje ainda.
