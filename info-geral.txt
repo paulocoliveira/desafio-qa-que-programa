@@ -30,3 +30,6 @@ SOLUÇÃO DO DESAFIO DIA 03: https://github.com/paulocoliveira/desafio-qa-que-pr
 
 DESAFIO DIA 04: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/desafios/dia-04
 SOLUÇÃO DO DESAFIO DIA 04: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/solucoes/dia-04
+
+DESAFIO DIA 05: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/desafios/dia-05
+SOLUÇÃO DO DESAFIO DIA 05: Será disponibilizada no horário combinado.
