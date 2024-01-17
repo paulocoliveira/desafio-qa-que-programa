@@ -35,4 +35,7 @@ DESAFIO DIA 05: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/m
 SOLUÇÃO DO DESAFIO DIA 05: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/solucoes/dia-05
 
 DESAFIO DIA 06: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/desafios/dia-06
-SOLUÇÃO DO DESAFIO DIA 06: Será disponibilizada no horário combinado.
+SOLUÇÃO DO DESAFIO DIA 06: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/solucoes/dia-06
+
+DESAFIO DIA 07: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/desafios/dia-07
+SOLUÇÃO DO DESAFIO DIA 07: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/solucoes/dia-07
