@@ -39,3 +39,6 @@ SOLUÇÃO DO DESAFIO DIA 06: https://github.com/paulocoliveira/desafio-qa-que-pr
 
 DESAFIO DIA 07: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/desafios/dia-07
 SOLUÇÃO DO DESAFIO DIA 07: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/solucoes/dia-07
+
+DESAFIO DIA 08: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/desafios/dia-08
+SOLUÇÃO DO DESAFIO DIA 08: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/solucoes/dia-08
