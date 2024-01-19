@@ -44,4 +44,4 @@ DESAFIO DIA 08: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/m
 SOLUÇÃO DO DESAFIO DIA 08: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/solucoes/dia-08
 
 DESAFIO DIA 09: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/desafios/dia-09
-SOLUÇÃO DO DESAFIO DIA 09: Será disponibilizada no horário combinado.
+SOLUÇÃO DO DESAFIO DIA 09: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/solucoes/dia-09
