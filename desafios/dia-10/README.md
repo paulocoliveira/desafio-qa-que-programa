@@ -30,8 +30,8 @@ python nome-do-seu-script.py
 Você pode então realizar alguns testes em seu script. Execute seu script usando os valores abaixo, para ver se ele se comporta como esperado.
 
 ```
-TESTE 01: O programa gera o número 42. O jogador chuta 50. O programa fornece a dica "O número é menor." O jogador chuta 30. O programa fornece a dica "O número é maior." O jogador chuta 40. O programa fornece a dica "O número é menor." O jogador chuta 41. O programa fornece a dica "O número é maior." O jogador chuta 42. O programa informa que o jogador acertou, ele ganha 1 ponto e mostra quantos pontos ele tem.
-TESTE 02: O programa gera o número 67. O jogador faz 5 tentativas sem sucesso. O programa informa que o jogador perdeu, mas o jogo não é encerrado..
+TESTE 01: O programa gera o número 42. O jogador chuta 50. O programa fornece a dica "O número é menor." O jogador chuta 30. O programa fornece a dica "O número é maior." O jogador chuta 40. O programa fornece a dica "O número é maior." O jogador chuta 41. O programa fornece a dica "O número é maior." O jogador chuta 42. O programa informa que o jogador acertou, ele ganha 1 ponto e mostra quantos pontos ele tem.
+TESTE 02: O programa gera o número 67. O jogador faz 7 tentativas sem sucesso. O programa informa que o jogador perdeu, mas o jogo não é encerrado..
 TESTE 03: O jogador pede pra ver sua pontuação.
 TESTE 04: O jogador pede pra zerar sua pontuação.
 TESTE 05: O jogador pede pra sair do jogo.
