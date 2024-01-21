@@ -48,3 +48,6 @@ SOLUÇÃO DO DESAFIO DIA 09: https://github.com/paulocoliveira/desafio-qa-que-pr
 
 DESAFIO DIA 10: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/desafios/dia-10
 SOLUÇÃO DO DESAFIO DIA 10: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/solucoes/dia-10
+
+DESAFIO DIA 11: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/desafios/dia-11
+SOLUÇÃO DO DESAFIO DIA 11: Será disponibilizado na hora combinada.
