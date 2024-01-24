@@ -24,7 +24,7 @@ python nome-do-seu-script.py
 Você pode então realizar alguns testes em seu script. Execute seu script usando os valores abaixo, para ver se ele se comporta como esperado.
 
 ```
-TESTE 01: Gerar uma senha de comprimento 8 sem números, letras maiúsculas, letras minúsculas ou caracteres especiais.
+TESTE 01: Gerar uma senha de comprimento 8 com números e caracteres especiais, mas sem letras maiúsculas e letras minúsculas.
 TESTE 02: Gerar uma senha de comprimento 12 com números, mas sem letras maiúsculas, letras minúsculas ou caracteres especiais.
 TESTE 03: Gerar uma senha de comprimento 16 com letras maiúsculas e números, mas sem letras minúsculas ou caracteres especiais.
 TESTE 04: Gerar uma senha de comprimento 20 com letras minúsculas, números e caracteres especiais.
