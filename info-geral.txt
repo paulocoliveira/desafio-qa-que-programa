@@ -57,3 +57,6 @@ SOLUÇÃO DO DESAFIO DIA 12: https://github.com/paulocoliveira/desafio-qa-que-pr
 
 DESAFIO DIA 13: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/desafios/dia-13
 SOLUÇÃO DO DESAFIO DIA 13: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/solucoes/dia-13
+
+DESAFIO DIA 14: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/desafios/dia-14
+SOLUÇÃO DO DESAFIO DIA 14: Será disponibilizada na hora combinada.
