@@ -66,3 +66,6 @@ SOLUÇÃO DO DESAFIO DIA 15: https://github.com/paulocoliveira/desafio-qa-que-pr
 
 DESAFIO DIA 16: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/desafios/dia-16
 SOLUÇÃO DO DESAFIO DIA 16: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/solucoes/dia-16
+
+DESAFIO DIA 17: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/desafios/dia-17
+SOLUÇÃO DO DESAFIO DIA 17: Será disponibilizada na hora combinada.
