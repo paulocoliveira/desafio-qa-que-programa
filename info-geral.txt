@@ -71,4 +71,4 @@ DESAFIO DIA 17: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/m
 SOLUÇÃO DO DESAFIO DIA 17: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/solucoes/dia-17
 
 DESAFIO DIA 18: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/desafios/dia-18
-SOLUÇÃO DO DESAFIO DIA 18: Será disponibilizada na hora combinada.
+SOLUÇÃO DO DESAFIO DIA 18: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/solucoes/dia-18
