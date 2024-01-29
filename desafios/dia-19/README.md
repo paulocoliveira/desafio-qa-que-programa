@@ -50,7 +50,7 @@ Resultado esperado: O programa deve informar que o contato não foi encontrado.
 
 TESTE 06: Teste de exclusão de contato existente:
 Nome a ser excluído: João Silva
-Resultado esperado: O programa deve remover o contato de Pedro Rodrigues da agenda.
+Resultado esperado: O programa deve remover o contato de João Silva da agenda.
 
 TESTE 07: Teste de exclusão de contato inexistente:
 Nome a ser excluído: Ana Silva
