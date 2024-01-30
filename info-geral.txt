@@ -77,4 +77,4 @@ DESAFIO DIA 19: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/m
 SOLUÇÃO DO DESAFIO DIA 19: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/solucoes/dia-19
 
 DESAFIO DIA 20: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/desafios/dia-20
-SOLUÇÃO DO DESAFIO DIA 20: Será disponibilizada na hora combinada.
+SOLUÇÃO DO DESAFIO DIA 20: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/solucoes/dia-20
