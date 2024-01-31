@@ -78,3 +78,6 @@ SOLUÇÃO DO DESAFIO DIA 19: https://github.com/paulocoliveira/desafio-qa-que-pr
 
 DESAFIO DIA 20: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/desafios/dia-20
 SOLUÇÃO DO DESAFIO DIA 20: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/solucoes/dia-20
+
+DESAFIO DIA 21: https://github.com/paulocoliveira/desafio-qa-que-programa/tree/main/desafios/dia-21
+SOLUÇÃO DO DESAFIO DIA 21: Será disponibilizada na hora combinada.
